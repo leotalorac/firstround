@@ -95,5 +95,5 @@ int main(){
 				break;
 		}
 	}
-	cout<<"Line = "<<y<<", column = "<<x;
+	cout<<"Line = "<<y<<", column = "<<x<<".";
 }
